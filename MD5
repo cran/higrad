@@ -1,0 +1,9 @@
+58b2ae459176f266f01b864aa98cbd1a *DESCRIPTION
+311deb2595b66157ff597aaf7cf4656c *NAMESPACE
+f0013205d3f6f1c2f29b5b5552d741c5 *NEWS.md
+81db004fe5b3cc2e50208b1be2cbc6cc *R/higrad.R
+5ea7aea647d92f32a8ebf91e74b7e501 *README.md
+6012a47d76790ef7836eac530013df1b *man/higrad.Rd
+924141ddbe719f5fab502fb05abc99f9 *man/plot.higrad.Rd
+629c85666906908330da69fb5b6bb317 *man/predict.higrad.Rd
+43bef053198c7475b69a06b512b141b3 *man/print.higrad.Rd
